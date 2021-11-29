@@ -24,58 +24,28 @@ margin: 25px;
     font-weight: 800;
     color: skyblue;
 }
-.fit{
-    color: skyblue;
-    margin: 50px 560px;
-}
-.container2{
-    text-align: center;
-}
-.lip{
-    background-color: skyblue;
-}
-.card{
-    text-align: center;
-    justify-content: space-evenly;
-}
-.cold{
-margin: 0 auto;
 
-}
-.kino{
-    color: skyblue;
-    margin: 50px 600px;
-}
 .hr{
     color: white;
     width: 650px;
     margin-left: 600px;
 }
-.pila{
-    color: white;
-    margin-left: 600px;
-}
 .container4{
-    margin: 25px 600px 25px 600px;
+    margin: 340px 580px 0px 600px ;
     display: flex;
     justify-content: space-between;
 }
-.jprq{
-    width: 250px;
-    height: 230px;
+.yui{
+margin: 25px 600px;
 }
-.fat{
-    margin-left: 600px;
+.fda{
+display: flex;
+margin: 25px 600px;
 }
-.gih{
-    background-color: skyblue;
-    
-}
-.P{
-    padding-top: 50px;
-}
-.h78{
-    padding-top: 25px;
+.lipo{
+    display: flex;
+    margin: 0 auto;
+    justify-content: center;
 }
 
 
